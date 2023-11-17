@@ -1,6 +1,6 @@
 import React from "react";
-import BannerBackground from "../Assets/home-banner-background.png";
-import BannerImage from "../Assets/aibriyani.png";
+import BannerBackground from "../assets/home-banner-background.png";
+import BannerImage from "../assets/aibriyani.png";
 import Navbar from "./Navbar";
 import { FiArrowRight } from "react-icons/fi";
 
